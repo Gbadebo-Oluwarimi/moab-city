@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 
 const carouselData = [
   {
+    
     imageSrc: "/img1.jpg",
     altText: "Business professional with financial interface",
     overlayText: "D Amb Shekinah",
